@@ -1,16 +1,24 @@
-# project_8
+# Flutter E-Commerce App
 
-A new Flutter project.
+A Flutter-based e-commerce application with clean UI and core shopping features.
 
-## Getting Started
+## Features
+- User Login & Authentication
+- Product Listing
+- Add to Cart
+- Cart Update Snackbar
+- Responsive UI
+- Android, iOS & Web Support
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- Flutter
+- Dart
+- GetX (State Management)
+- REST API (if used)
 
-A few resources to get you started if this is your first Flutter project:
+## Screens
+(Add screenshots here if available)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Developed By
+Atul Kumar Rai  
+Flutter Developer Trainee
