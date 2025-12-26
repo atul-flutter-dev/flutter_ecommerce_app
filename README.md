@@ -14,10 +14,7 @@ A Flutter-based e-commerce application with clean UI and core shopping features.
 - Flutter
 - Dart
 - GetX (State Management)
-- REST API (if used)
-
-## Screens
-(Add screenshots here if available)
+- REST API 
 
 ## Developed By
 Atul Kumar Rai  
